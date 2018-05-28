@@ -1,0 +1,11 @@
+{
+  "name": "philosophynotes",
+  "version": "1.0.0",
+  "description": "Website providing quick, easy summaries of major Western philosophers and movements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constance Ingram",
+  "license": "ISC"
+}
